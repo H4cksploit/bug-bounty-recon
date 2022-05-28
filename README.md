@@ -3,7 +3,7 @@ BigBountyRecon tool utilises 58 different techniques using various Google dorks 
 
 This tool can be used in addition to your usual approach for bug hunting. The idea is to quickly check and gather information about your target organisation without investing time and remembering these syntaxes. In addition, it can help you define an approach towards finding some quick wins on the target.
 
-Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
+
 
 ![image](https://user-images.githubusercontent.com/3501170/104112108-d9145c00-533e-11eb-85be-cb1d33fc9362.png)
 
@@ -143,20 +143,15 @@ Verifying if the URL contains extenstion of ".do":
 
 # How to use this tool?
 
-Step1: Download the file from Release section: https://github.com/Viralmaniar/BigBountyRecon/releases/download/v0.1/BigBountyRecon.exe
 
-Step2: Run the EXE file
+Step1: Run the EXE file
 
-Step3: Enter the target domain
+Step2: Enter the target domain
 
-Step4: Click on different buttons in the tool to find information
+Step3: Click on different buttons in the tool to find information
 
-Step5: In case of Google Captcha simply click on the puzzle and move ahead
+Step4: In case of Google Captcha simply click on the puzzle and move ahead
 
-# Questions?
-
-Twitter: https://twitter.com/maniarviral <br>
-LinkedIn: https://au.linkedin.com/in/viralmaniar
 
 # Dorking operators across Google, DuckDuckGo, Yahoo and Bing
 
@@ -191,9 +186,4 @@ Here is a table with possible dorks for various search engines.
 | maps:[location]                                             	| Searches for maps related to keywords                                                                                                                                                                                                                       	| ✓      	|            	|       	|      	|
 | linkfromdomain:[url]                                        	| Shows websites whose links are mentioned in the specified url (with errors)                                                                                                                                                                                 	|     	|            	|       	|     ✓   	|
 
-# Contribution & License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</br>
-Want to contribute? Please fork it and hit up with a pull request.
-
-Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
